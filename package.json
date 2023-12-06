@@ -1,0 +1,12 @@
+{
+  "name": "unplugin-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm --filter ./packages/** build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
