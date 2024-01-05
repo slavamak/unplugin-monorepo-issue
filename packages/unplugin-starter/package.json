@@ -2,7 +2,7 @@
   "name": "unplugin-starter",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "pnpm@8.6.12",
+  "packageManager": "pnpm@8.14.0",
   "description": "",
   "license": "MIT",
   "homepage": "https://github.com/antfu/unplugin-starter#readme",
@@ -126,6 +126,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.2.2",
+    "@microsoft/api-extractor": "^7.39.0",
     "@nuxt/kit": "^3.8.2",
     "@nuxt/schema": "^3.8.2",
     "@types/node": "^20.10.3",
